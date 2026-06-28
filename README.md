@@ -20,7 +20,7 @@ https://github.com/ClownSovereign/Coc-Bot**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/ClownSovereign" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ClownSovereign" height="30" width="40" /></a>
-<a href="[https://linkedin.com/in/Efe Sarışlı](https://www.linkedin.com/in/efe-sar%C4%B1%C5%9Fl%C4%B1-b43531417/?skipRedirect=true)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Efe Sarışlı" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/efe-sar%C4%B1%C5%9Fl%C4%B1-b43531417/?skipRedirect=true" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Efe Sarışlı" height="30" width="40" /></a>
 <a href="https://instagram.com/efe_1ste" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="efe_1ste" height="30" width="40" /></a>
 <a href="https://discord.gg/efe_iste__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="efe_iste__" height="30" width="40" /></a>
 </p>
